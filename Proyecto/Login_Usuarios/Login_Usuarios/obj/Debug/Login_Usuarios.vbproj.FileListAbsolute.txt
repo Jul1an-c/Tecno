@@ -1,0 +1,57 @@
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe.config
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.pdb
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.xml
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbprojResolveAssemblyReference.cache
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Form1.resources
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Resources.resources
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.GenerateResource.Cache
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.exe
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.xml
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.pdb
+c:\users\pc16lab4\documents\visual studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Usuario.resources
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe.config
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.pdb
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.xml
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Guna.UI.dll
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Form1.resources
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Usuario.resources
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Resources.resources
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.GenerateResource.cache
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.CopyComplete
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.exe
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.xml
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.pdb
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe.config
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.exe
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.xml
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.pdb
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.pdb
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.xml
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbprojResolveAssemblyReference.cache
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Form1.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Usuario.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Resources.resources
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.GenerateResource.Cache
+C:\Users\INFORMATICA\Documents\Visual Studio 2015\Projects\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Administrador.resources
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Administrador.resources
+C:\Users\Julian\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Registros.resources
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe.config
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.exe
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.xml
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.pdb
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.exe
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.pdb
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\bin\Debug\Login_Usuarios.xml
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbprojResolveAssemblyReference.cache
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Form1.resources
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Administrador.resources
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Registros.resources
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.frm_Usuario.resources
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.Resources.resources
+C:\Users\PC16LAB4\Desktop\Login_Usuarios\Login_Usuarios\obj\Debug\Login_Usuarios.vbproj.GenerateResource.Cache
