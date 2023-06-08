@@ -114,3 +114,59 @@ Public Class Form1
 
 End Class
 
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class Main {
+    public static void main(String[] args) {
+        String usuario = txt_Usuario.getText();
+        String contraseña = txt_Contraseña.getText();
+        
+        try {
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tu_base_de_datos", "usuario", "contraseña");
+            Statement stmt = con.createStatement();
+            ResultSet rs = stmt.executeQuery("SELECT * FROM Usuarios_L WHERE Usuario='" + usuario + "' AND Contraseña='" + contraseña + "'");
+            
+            // Validar
+            int validar = 0;
+            if (rs.last()) {
+                validar = rs.getRow();
+                rs.beforeFirst();
+            }
+            
+            // If
+            if (validar > 0) {
+                if (rs.next()) {
+                    int tipo = rs.getInt("Id_Tipo");
+                    if (tipo == 1) {
+                        System.out.println("Bienvenido Usuario");
+                        Frm_Usuario frmUsuario = new Frm_Usuario();
+                        frmUsuario.setVisible(true);
+                        // Cerrar la ventana actual
+                    } else if (tipo == 2) {
+                        System.out.println("Bienvenido Administrador");
+                        Frm_Administrador frmAdministrador = new Frm_Administrador();
+                        frmAdministrador.setVisible(true);
+                        // Cerrar la ventana actual
+                    } else if (tipo == 3) {
+                        System.out.println("Bienvenido Secretaria");
+                        Frm_Usuario frmUsuario = new Frm_Usuario();
+                        frmUsuario.setVisible(true);
+                        // Cerrar la ventana actual
+                    }
+                }
+            }
+            
+            rs.close();
+            stmt.close();
+            con.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+
